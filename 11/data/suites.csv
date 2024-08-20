@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue Aug 20 12:14:06 GMT 2024","Tue Aug 20 12:14:24 GMT 2024","17536","chromium","clas-226.spec.ts","Class-226-Verify Search results to lazy load with scroll and Brand Logo with Visual commparison","","","Verify Classroom Brand logo with Visual Comparison",""
+"passed","Tue Aug 20 12:13:34 GMT 2024","Tue Aug 20 12:14:06 GMT 2024","32416","chromium","clas-226.spec.ts","Class-226-Verify Search results to lazy load with scroll and Brand Logo with Visual commparison","","","Verify Interactive Media page, search results lazy load successfully",""
