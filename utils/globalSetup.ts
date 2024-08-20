@@ -1,4 +1,4 @@
-import * as dotenv from 'dotenv';
+import dotenv from 'dotenv';
 
 const TEST_ENVIRONMENT = process.env.TEST_ENVIRONMENT;
 
