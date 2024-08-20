@@ -16,7 +16,7 @@ jobs:
       with:
         node-version: '14'
         cache: 'npm'
-    - run: npm ci
+    - run: npm install
     - run: $env:TEST_ENVIRONMENT="qa";npm run test-single
   
     - uses: actions/upload-artifact@master
