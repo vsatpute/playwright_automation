@@ -17,6 +17,9 @@ jobs:
         node-version: '14'
         cache: 'npm'
     - run: npm install
+    # Step to install Chrome browser for Playwright
+    - name: Install Chrome browser for Playwright
+      run: npx playwright install chrome
     - run: npm run test-single
   
     - uses: actions/upload-artifact@master
